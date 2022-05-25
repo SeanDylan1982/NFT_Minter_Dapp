@@ -94,12 +94,12 @@ try {
 
 const solanaMetadata = {
   symbol: "GrG",
-  seller_fee_basis_points: 0, // Define how much % you want from secondary market sales 1000 = 10%
+  seller_fee_basis_points: 250, // Define how much % you want from secondary market sales 1000 = 10%
   external_url: "https://ipfs.io/ipfs/QmU62Vv2pFMjyXAUYDpkcUWNAQgpRYuqLRoDMhWLdpGD3c",
   creators: [
     {
       address: "0xcc6CE1caF8D42ad3bf041f377f1F2C2FbC202b33",
-      share: 0,
+      share: 250,
     },
   ],
 };
