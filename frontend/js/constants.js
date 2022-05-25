@@ -1,25 +1,25 @@
-const contractAddress = "YOUR CONTRACT ADDRESS"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x8dbADDea45F5cf94EF7e41D4A11d7aC4E5436f79"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
-const welcome_h1 = "Welcome to the CodeCats NFT Project!!";
+const welcome_h1 = "Welcome to the GrouchyGorillas NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
-const welcome_p = 'The CodeCats NFT Project is a decentralized, open-source project that aims to demonstrate how to develope and launch your own NFT Collection. Follow step by step on the <a href="https://youtube.com/codestackr"  target="_blank" rel="noopener noreferrer">codeSTACKr</a> YouTube channel.';
-const h1_presale_coming_soon = "NFT Drop Coming Soon!!";
-const h1_presale_mint = "Pre-Sale Minting Open!!";
-const h1_public_mint = "Public Minting Open!!";
-const h2_presale_coming_soon = "Pre-Sale Minting Countdown";
-const h2_presale_mint = "Public Minting Countdown";
-const p_presale_coming_soon = "We are working hard to launch the NFT Collection. Stay tuned for updates!";
-const p_presale_mint_not_whitelisted = "You are not whitelisted for the pre-sale.. 😢";
-const p_presale_mint_whitelisted = "You're on the whitelist for the pre-sale! 🎉";
-const p_presale_mint_already_minted = "You've already claimed your whitelist mint. Thank you! 🎉";
-const p_public_mint = "No whitelist needed. Public minting is now open! 🎉";
-const button_presale_coming_soon = "Get on the Whitelist";
-const button_presale_mint_whitelisted = "Mint Your Special NFT";
-const button_presale_mint_not_whitelisted = "Get on the Whitelist";
-const button_presale_already_minted = "Join The Community";
-const button_public_mint = "Mint Your NFT";
-const mint_failed = "Minting failed. 😢 Please try again.";
+const welcome_p = 'The GrouchyGorillas is a brand new NFT collection series';
+const h1_presale_coming_soon = "GrouchyGorillas NFT Drop Coming Soon!!";
+const h1_presale_mint = "Pre-Sale of GrouchyGorillas Minting Open!!";
+const h1_public_mint = "Public GrouchyGorillas Minting Open!!";
+const h2_presale_coming_soon = "Pre-Sale of GrouchyGorillas Minting Countdown";
+const h2_presale_mint = "Public GrouchyGorillas Minting Countdown";
+const p_presale_coming_soon = "We are working hard to launch the GrouchyGorillas NFT Collection. Stay tuned for updates!";
+const p_presale_mint_not_whitelisted = "You are not GrouchyGorillas whitelisted for the pre-sale.. 😢";
+const p_presale_mint_whitelisted = "You're on the GrouchyGorillas whitelist for the pre-sale! 🎉";
+const p_presale_mint_already_minted = "You've already claimed your GrouchyGorillas whitelist mint. Thank you! 🎉";
+const p_public_mint = "No whitelist needed. Public GrouchyGorillas minting is now open! 🎉";
+const button_presale_coming_soon = "Get on the GrouchyGorillas Whitelist";
+const button_presale_mint_whitelisted = "Mint Your Special GrouchyGorillas NFT";
+const button_presale_mint_not_whitelisted = "Get on the GrouchyGorillas Whitelist";
+const button_presale_already_minted = "Join The GrouchyGorillas Community";
+const button_public_mint = "Mint Your GrouchyGorillas NFT";
+const mint_failed = "GrouchyGorillas Minting failed. 😢 Please try again.";
 
 const abi = [
   {
